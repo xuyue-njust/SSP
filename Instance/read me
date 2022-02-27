@@ -1,1 +1,5 @@
+The staffing requirements of each intance
 
+
+Each column represents a interval, and each row represents a day.  
+The content in a cell represents the staffing requirements, calculated by Erlang A.
