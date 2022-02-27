@@ -1,1 +1,1 @@
-# SSP
+The staff scheduling problem (SSP) in call centers is defined as determining working/non-working days for a specific number of employees and their shift types in working days, considering service level requirements, some labor regulations and preferences.
