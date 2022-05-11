@@ -1,1 +1,3 @@
-the final solutions (schemes) obtained by our proposed algorithm, and their corresponding staffing requirements coverage
+The final solutions (schemes) obtained by our proposed algorithm, and their corresponding staffing requirements coverage
+For "scheme" tables, the numbers recorded in the table represent shifts assigned to employees.For example, "0" means the employee is off work on this day;"1" means that the employee works shift s1 on this day.
+For "requirements coverage" tables, the numbers recorded in the table represent the amount of surplus labor.For example,"0" means that the staffing requirements equal to the number of assigned employees on this interval;"-1" means that one employee is redundant on this interval.  
