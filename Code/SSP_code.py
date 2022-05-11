@@ -21,7 +21,7 @@ def data_write(file_path, datas):
 
 
 
-#//////staffing requirements for intervals in 28 days for instance01/////////
+#//////staffing requirements for intervals on 28 days for instance01/////////
 require00 = ('[5     6     7     7     7     4     5     5     5     3     3     3     3     3     2],'
 '[3     4     5     5     5     3     3     3     4     3     3     3     3     3     2],'
 '[2	3	3	4	4	3	4	4	4	3	2	1	1	2   1],'
@@ -1950,7 +1950,7 @@ while time.time() - first_time <= 500  and zuizhongobj != 0:
 
 
     for sn in range(N):
-        if nonopt[sn] > 15:##limIt
+        if nonopt[sn] > 15:##limit
 
             ################ipruin-and-recreate block(cplex)#############
             a0 = copy.deepcopy(penaltyinifa[sn])
