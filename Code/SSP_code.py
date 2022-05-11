@@ -1950,7 +1950,7 @@ while time.time() - first_time <= 500  and zuizhongobj != 0:
 
 
     for sn in range(N):
-        if nonopt[sn] > 15:##limt
+        if nonopt[sn] > 15:##limIt
 
             ################ipruin-and-recreate block(cplex)#############
             a0 = copy.deepcopy(penaltyinifa[sn])
