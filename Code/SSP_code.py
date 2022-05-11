@@ -6,7 +6,7 @@ import copy
 import random
 from docplex.mp.model import Model
 import math
-##################################################stage-II######################################################
+##################################################stage-I######################################################
 time0 = time.clock()
 
 def data_write(file_path, datas):
